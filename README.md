@@ -23,7 +23,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align=>
-  <h3 align="left">Languages:</h3>
+  <h3 align="left">Languages And Frameworks:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,java,python,django,visualstudio,bootstrap" />
   </a>
