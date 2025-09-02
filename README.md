@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimalfred&label=Profile%20views&color=0e75b6&style=flat" alt="kimalfred" /> </p>
 
 
-- 🌱 I’m currently learning **TensorFlow, YOLOv8, Django, React Native**
+- 🌱 I’m currently learning **React Native, Android/Apple Development**
 
 - 💬 Ask me about **Web Development, Web Design**
 
