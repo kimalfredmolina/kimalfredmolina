@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Web Development, Web Design**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **kimalfredmolina1224@gmail.com**
 
