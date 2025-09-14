@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native EAS/CLI**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kimalfredmolina1224@gmail.com**
 
