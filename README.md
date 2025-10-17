@@ -29,7 +29,7 @@
   </a>
   <h3 align="left">DevOps:</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,git,figma,androidstudio,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,git,figma,androidstudio,jest,github,githubactions" />
   </a>
 </p>
 
