@@ -21,15 +21,23 @@
 <a href="https://www.instagram.com/kim_alfredkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimalfred_kim" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Soft Skills:</h2>
 <p align=>
-  <h3 align="left">Languages And Frameworks:</h3>
+  <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,ts,tailwind,php,java,python,django,visualstudio,cs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,python,php,java,python,cs,dotnet" />
   </a>
-  <h3 align="left">DevOps:</h3>
+  <h3 align="left">Frameworks:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,django,expressjs" />
+  </a>
+  <h3 align="left">Database Management:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql" />
+  </a>
+  <h3 align="left">Tools/DevOps:</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,git,figma,androidstudio,jest,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,jest,docker,githubactions" />
   </a>
 </p>
 
