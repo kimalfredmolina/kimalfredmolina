@@ -37,7 +37,7 @@
   </a>
   <h3 align="left">Tools/DevOps:</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,jest,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest,docker,githubactions" />
   </a>
 </p>
 
