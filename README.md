@@ -46,17 +46,17 @@
 
 <h3 align="left">Frameworks:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,django,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,django,next,nest,express" />
 </a>
 
 <h3 align="left">Database Management:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,supabase,postgresql" />
 </a>
 
 <h3 align="left">Tools/DevOps:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest,docker,prisma,githubactions" />
 </a>
 
 <h3 align="left">🔥 My Stats</h3>
