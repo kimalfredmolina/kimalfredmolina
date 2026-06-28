@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<a href="https://gitroll.io/profile/uZJJrRUz2d5aEL5rRiFuNZa9xSZf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZJJrRUz2d5aEL5rRiFuNZa9xSZf1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uZJJrRUz2d5aEL5rRiFuNZa9xSZf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZJJrRUz2d5aEL5rRiFuNZa9xSZf1?theme=midnight" alt="GitRoll Profile Badge"/></a>
 
 <h2 align="left">Tech Skills:</h2>
 
