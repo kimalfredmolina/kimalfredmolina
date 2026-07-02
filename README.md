@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/K02_c3XLq68AAAAC/paimon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimalfred&label=Profile%20views&color=0e75b6&style=flat" alt="kimalfred" /> </p>
 
-- 🌱 I'm currently learning **Node.js, MongoDB, AWS, Docker**
+- 🌱 I'm currently learning **Project Management thru Coursera, AWS**
 - 💬 Ask me about **Web Development, Databases**
 - 📫 How to reach me **kimalfredmolina1224@gmail.com**
 - ⚡ Fun fact **I dont know too**
